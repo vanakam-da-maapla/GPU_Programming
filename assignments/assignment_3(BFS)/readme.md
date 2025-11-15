@@ -32,7 +32,7 @@ First, you must build the executables.
      
      ```
 
-This will generate four executables:
+This will generate three executables:
 
 * `bfs_baseline`: **(Task 1)** The baseline implementation.
 
